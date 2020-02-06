@@ -10,7 +10,7 @@ data =cursor.fetchone()
 
 print("--------------")
 print(data)
-print("-------------")
+print("-------this is diff------")
 
 
 # 关闭数据库连接
